@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD candidate, Nanyang Technological University Singapore
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Disaster Analytics for Society Lab</p>
+    <p>Earth Observatory of Singapore</p>
+    <p><a href='#'> Earth Observatory of Singapore</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year Ph.D. candidate at Nanyang Technological University Singapore, working with [David Lallemant](https://earthobservatory.sg/people/david-lallemant) in the [Disaster Analytics for Society Lab (DASL)](https://disaster-analytics.com).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interests lie broadly at developing novel methods in the mathematics of disasters to better understand the potential impacts of natural hazards on cities. The working title of my thesis is “Dynamic urban risk modelling for long-term disaster risk reduction. My work involves probabilistic modelling of earthquake risk, policy-related modelling of future risk of cities, counterfactual risk analysis (i.e. imagining the ‘what-ifs’ in disaster risk), urban growth modelling, and calibrating volcanic hazard models using geostatistics. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I previously received a BS in Civil Engineering and MSc in Civil-Geotechnical Engineering from University of the Philippines Diliman. Before pursuing my PhD, I spent 5 years as a senior modeller generating [nationwide landslide susceptibility data](https://resilience.up.edu.ph/about-us/) that’s freely accessible for communities in the Philippines during the aftermath of Super Typhoon Haiyan. I am now a recipient of a scholarship funding from the National Research Foundation of Singapore and Earth Observatory of Singapore.
