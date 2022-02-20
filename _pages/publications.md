@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Equal contribution and joint lead authorship indicated as <em>^</em>
+description: Equal contribution and joint lead authorship indicated as ^
 years: [2022, 2020, 2019, 2016]
 nav: true
 ---
