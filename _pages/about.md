@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate | <a href="https://earthobservatory.sg" target="_blank">Earth Observatory of Singapore </a>
+subtitle: PhD candidate | <a href="https://earthobservatory.sg" target="_blank">Earth Observatory of Singapore</a> | <a href="https://www.ntu.edu.sg/ase" target="_blank">Asian School of the Environment</a>
 
 profile:
   align: right
