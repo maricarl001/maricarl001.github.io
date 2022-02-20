@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Final-year PhD candidate
+subtitle: PhD candidate | <a href="https://earthobservatory.sg" target="_blank">Earth Observatory of Singapore </a>
 
 profile:
   align: right
@@ -16,10 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-[Disaster Analytics for Society Lab (DASL)](https://disaster-analytics.com), working with [David Lallemant](https://earthobservatory.sg/people/david-lallemant)
-[Earth Observatory of Singapore](https://earthobservatory.sg)
-[Asian School of the Environment](https://www.ntu.edu.sg/ase)
-[Nanyang Technological University Singapore](https://www.ntu.edu.sg)
+I am a final-year PhD candidate at [Nanyang Technological University Singapore](https://www.ntu.edu.sg), working with [David Lallemant](https://earthobservatory.sg/people/david-lallemant) in the [Disaster Analytics for Society Lab (DASL)](https://disaster-analytics.com). 
 
 My interests lie broadly at developing novel methods in the mathematics of disasters to better understand the potential impacts of natural hazards on cities. The working title of my thesis is “Dynamic urban risk modelling for long-term disaster risk reduction. My work involves probabilistic modelling of earthquake risk, policy-related modelling of future risk of cities, counterfactual risk analysis (i.e. imagining the ‘what-ifs’ in disaster risk), urban growth modelling, and calibrating volcanic hazard models using geostatistics. 
 
