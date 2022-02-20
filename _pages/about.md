@@ -3,10 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: PhD candidate
-Disaster Analytics for Society Lab (DASL), with David Lallemant
-Asian School of the Environment
-<a href='#'> Earth Observatory of Singapore</a>
-Nanyang Technological University Singapore
 
 profile:
   align: right
