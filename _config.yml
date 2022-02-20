@@ -202,7 +202,7 @@ jekyll-archives:
 scholar:
 
   last_name: Rabonza
-  first_name: [Maricar, M., Maricar L, Maricar*]
+  first_name: [Maricar, M., Maricar L, Maricar^]
 
   style: apa
   locale: en
