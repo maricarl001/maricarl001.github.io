@@ -13,7 +13,7 @@ profile:
     <p>Singapore 639798</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a final-year PhD candidate at [Nanyang Technological University Singapore](https://www.ntu.edu.sg), working with [David Lallemant](https://earthobservatory.sg/people/david-lallemant) in the [Disaster Analytics for Society Lab (DASL)](https://disaster-analytics.com). 
