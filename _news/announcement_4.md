@@ -1,31 +1,15 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Our work on celebrating successes in #DisasterRiskReduction is featured in [Thomson Reuters Foundation News](https://news.trust.org/item/20220309084651-say6j/).
+date: 2022-03-09 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Our work on celebrating successes in #DisasterRiskReduction is featured in [Thomson Reuters Foundation News](https://news.trust.org/item/20220309084651-say6j/). In the conversation, my PhD adviser David Lallemant and I share the importance and need to recognize successful efforts to avert disasters. Celebrating such efforts is important to ensure that we learn from, replicate, adapt and/or scale programs that are already working. Amid growing eco-anxiety, it is important to remember that we already have some of the solutions. 
 
-***
+Know of a project that successfully averted a disaster? Submit nominations for the Averted Disaster Award supported by the Understanding Risk Community (UR) and the World Bank. The deadline is on April 15: https://averteddisasteraward.org
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+And read our scientific paper describing how to identify, quantify and highlight successful disaster risk reduction interventions that are otherwise invisible: https://dr.ntu.edu.sg/handle/10356/153502 Part of upcoming [United Nations Office for Disaster Risk Reduction (UNDRR) Global Assessment Report 2022](https://gar.undrr.org).
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Research supported by [National Research Foundation Singapore (NRF)](https://www.nrf.gov.sg) at the [Earth Observatory of Singapore](https://earthobservatory.sg) and Nanyang Technological University Singapore
+#DisasterManagement #AvertedDisaster #DisasterRiskReduction
