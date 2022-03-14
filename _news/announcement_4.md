@@ -2,7 +2,7 @@
 layout: post
 title: Our work was mentioned in Thomson Reuters Foundation News
 date: 2022-03-09 16:11:00-0400
-inline: true
+inline: false
 ---
 
 Our work on celebrating successes in #DisasterRiskReduction is featured in [Thomson Reuters Foundation News](https://news.trust.org/item/20220309084651-say6j/). In the conversation, my PhD adviser David Lallemant and I share the importance and need to recognize successful efforts to avert disasters. Celebrating such efforts is important to ensure that we learn from, replicate, adapt and/or scale programs that are already working. Amid growing eco-anxiety, it is important to remember that we already have some of the solutions. 
