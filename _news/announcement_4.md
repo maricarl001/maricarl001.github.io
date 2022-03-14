@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our work on celebrating successes in #DisasterRiskReduction is featured in [Thomson Reuters Foundation News](https://news.trust.org/item/20220309084651-say6j/).
+title: Our work on celebrating successes in disaster risk reduction is featured in [Thomson Reuters Foundation News](https://news.trust.org/item/20220309084651-say6j/).
 date: 2022-03-09 16:11:00-0400
 inline: false
 ---
