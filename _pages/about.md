@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: she/her/they
+subtitle: 
 
 profile:
   align: right
@@ -17,12 +17,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+* she/her/they
 * Final-year PhD candidate
 * [Earth Observatory of Singapore](https://earthobservatory.sg)
 * [Asian School of the Environment](https://www.ntu.edu.sg/ase)
 * [Nanyang Technological University Singapore](https://www.ntu.edu.sg)
 * [Disaster Analytics for Society Lab (DASL)](https://disaster-analytics.com)
-* Working with [David Lallemant](https://earthobservatory.sg/people/david-lallemant)
+* PhD adviser: [David Lallemant](https://earthobservatory.sg/people/david-lallemant)
+
+{% include figure.html path="assets/img/about-extraimg.png" class="img-fluid rounded z-depth-1" %}
 
 Since 2018, I have been based in Singapore to develop and improve probabilistic methods for futurecasting urban disaster risk.
 
