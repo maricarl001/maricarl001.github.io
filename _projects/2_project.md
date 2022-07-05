@@ -40,7 +40,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Risk analysis as convolution of increasing hazards, population growth, and changing vulnerabilities
 </div>
 
 You can also put regular text between your rows of images.
