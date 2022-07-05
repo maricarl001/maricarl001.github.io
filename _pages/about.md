@@ -25,14 +25,7 @@ social: true  # includes social icons at the bottom of the page
 * [Disaster Analytics for Society Lab (DASL)](https://disaster-analytics.com)
 * PhD adviser: [David Lallemant](https://earthobservatory.sg/people/david-lallemant)
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/about-extraimg.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    caption.
-</div>
+
 
 Since 2018, I have been based in Singapore to develop and improve probabilistic methods for futurecasting urban disaster risk.
 
@@ -41,3 +34,12 @@ When we talk about growing urban risk, climate change is often the first thing t
 In my work, I model the probabilistic risk of cities sensitive to rapid change in exposure, vulnerability and policy decisions. Specifically, the methods I use involve probabilistic earthquake risk modelling, policy-related modelling (e.g. school building retrofits), counterfactual risk analysis (i.e. imagining the ‘what-ifs’ in disaster risk), urban growth modelling (process-based to account for socio-economic factors, and machine-learning based), fatality calculation related to earthquake-induced building collapse, and calibrating volcanic tephra hazard models using geostatistics. My study areas primarily include Nepal and Greater Metro Manila, Philippines, and a bit on Chiang Mai, Thailand.
 
 I previously received a BS in Civil Engineering and MSc in Civil-Geotechnical Engineering from University of the Philippines Diliman. Before pursuing my PhD, I spent 5 years as a senior modeller generating [nationwide landslide susceptibility data](https://resilience.up.edu.ph/about-us/) that’s freely accessible for communities in the Philippines during the aftermath of Super Typhoon Haiyan. I am now a recipient of a scholarship funding from the National Research Foundation of Singapore and Earth Observatory of Singapore.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/about-extraimg.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    caption.
+</div>
