@@ -35,11 +35,11 @@ In my work, I model the probabilistic risk of cities sensitive to rapid change i
 
 I previously received a BS in Civil Engineering and MSc in Civil-Geotechnical Engineering from University of the Philippines Diliman. Before pursuing my PhD, I spent 5 years as a senior modeller generating [nationwide landslide susceptibility data](https://resilience.up.edu.ph/about-us/) that’s freely accessible for communities in the Philippines during the aftermath of Super Typhoon Haiyan. I am now a recipient of a scholarship funding from the National Research Foundation of Singapore and Earth Observatory of Singapore.
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/about-extraimg.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/about-extraimg.jpg" title="aboutimage" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-
-<img src="assets/about-extraimg.png" alt="about-cover">
+<div class="caption">
+    Risk analysis as convolution of increasing hazards, population growth, and changing vulnerabilities
+</div>
