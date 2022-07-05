@@ -40,3 +40,6 @@ I previously received a BS in Civil Engineering and MSc in Civil-Geotechnical En
         {% include figure.html path="assets/about-extraimg.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+
+<img src="assets/about-extraimg.png" alt="about-cover">
