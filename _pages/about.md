@@ -37,7 +37,7 @@ I previously received a BS in Civil Engineering and MSc in Civil-Geotechnical En
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/about-extraimg.jpg" title="aboutimage" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/about-extraimg.png" title="aboutimage" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
