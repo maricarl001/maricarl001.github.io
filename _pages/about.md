@@ -25,7 +25,14 @@ social: true  # includes social icons at the bottom of the page
 * [Disaster Analytics for Society Lab (DASL)](https://disaster-analytics.com)
 * PhD adviser: [David Lallemant](https://earthobservatory.sg/people/david-lallemant)
 
-{% include figure.html path="assets/img/about-extraimg.png" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/about-extraimg.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    caption.
+</div>
 
 Since 2018, I have been based in Singapore to develop and improve probabilistic methods for futurecasting urban disaster risk.
 
