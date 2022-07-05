@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate | <a href="https://earthobservatory.sg" target="_blank">Earth Observatory of Singapore</a> | <a href="https://www.ntu.edu.sg/ase" target="_blank">Asian School of the Environment</a>
+subtitle: she/her/they
 
 profile:
   align: right
@@ -16,8 +16,18 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a final-year PhD candidate at [Nanyang Technological University Singapore](https://www.ntu.edu.sg), working with [David Lallemant](https://earthobservatory.sg/people/david-lallemant) in the [Disaster Analytics for Society Lab (DASL)](https://disaster-analytics.com). 
 
-My interests lie broadly at developing novel methods in the mathematics of disasters to better understand the potential impacts of natural hazards on cities. The working title of my thesis is “Dynamic urban risk modelling for long-term disaster risk reduction. My work involves probabilistic modelling of earthquake risk, policy-related modelling of future risk of cities, counterfactual risk analysis (i.e. imagining the ‘what-ifs’ in disaster risk), urban growth modelling, and calibrating volcanic hazard models using geostatistics. 
+* Final-year PhD candidate
+* [Earth Observatory of Singapore](https://earthobservatory.sg)
+* [Asian School of the Environment](https://www.ntu.edu.sg/ase)
+* [Nanyang Technological University Singapore](https://www.ntu.edu.sg)
+* [Disaster Analytics for Society Lab (DASL)](https://disaster-analytics.com)
+* Working with [David Lallemant](https://earthobservatory.sg/people/david-lallemant)
+
+Since 2018, I have been based in Singapore to develop and improve probabilistic methods for futurecasting urban disaster risk.
+
+When we talk about growing urban risk, climate change is often the first thing that comes to mind. But not only the impact of climate change on natural hazards, but also population growth, economic development and changing vulnerabilities are significant long term drivers for risk that should be accounted for within risk reduction planning and risk modelling.
+
+In my work, I model the probabilistic risk of cities sensitive to rapid change in exposure, vulnerability and policy decisions. Specifically, the methods I use involve probabilistic earthquake risk modelling, policy-related modelling (e.g. school building retrofits), counterfactual risk analysis (i.e. imagining the ‘what-ifs’ in disaster risk), urban growth modelling (process-based to account for socio-economic factors, and machine-learning based), fatality calculation related to earthquake-induced building collapse, and calibrating volcanic tephra hazard models using geostatistics. My study areas primarily include Nepal and Greater Metro Manila, Philippines, and a bit on Chiang Mai, Thailand.
 
 I previously received a BS in Civil Engineering and MSc in Civil-Geotechnical Engineering from University of the Philippines Diliman. Before pursuing my PhD, I spent 5 years as a senior modeller generating [nationwide landslide susceptibility data](https://resilience.up.edu.ph/about-us/) that’s freely accessible for communities in the Philippines during the aftermath of Super Typhoon Haiyan. I am now a recipient of a scholarship funding from the National Research Foundation of Singapore and Earth Observatory of Singapore.
